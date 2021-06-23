@@ -1,5 +1,5 @@
 <?php
-include(path/to/curl.php')
+include('path/to/curl.php')
 $hostname=$_GET['hostname'];
 $myip=$_GET['myip'];
 $user=$_SERVER['PHP_AUTH_USER'];
